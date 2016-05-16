@@ -1,4 +1,5 @@
 ﻿class path{
 	system.out.println("hello");
 system.out.println("baby");
+system.out.println("baby1");
 }
